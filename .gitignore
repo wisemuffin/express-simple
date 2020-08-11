@@ -1,0 +1,9 @@
+node_modules
+
+# output
+dist
+.serverless
+.webpack
+
+# ENV
+.env*
